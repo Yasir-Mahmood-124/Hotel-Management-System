@@ -1,0 +1,2 @@
+Fivestar	Fourstar	Threestar	Twostar
+5000		4000		3000		2000
